@@ -18,7 +18,10 @@ const Form = props => {
       birth,
       description
     })
-    e.target.reset()
+    setName('')
+    setLastName('')
+    setAge('')
+    setBirth('')
     setDescription('')
   }
 
