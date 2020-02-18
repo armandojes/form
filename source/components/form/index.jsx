@@ -66,7 +66,7 @@ const Form = props => {
         type='submit'
         className={style.button}
       >
-        Guarda
+        Guardar
       </button>
     </form>
   )
